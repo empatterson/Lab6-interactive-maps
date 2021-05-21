@@ -1,7 +1,7 @@
 # Interactive Maps
 This code creates several interactive map outputs looking at the number of Starbucks shops in LA county, California. The code uses a few libraries inluding Pandas and Folium which 
 uses a javascrip library called Leaflet to build two interactive web maps. One map shows the number of Starbucks per zip code and the other map shows GPS locations of each 
-Starbucks location in the county. 
+Starbucks location in the county. There is a third output map that uses Folium data to create a map of 2012 unemployment rates for each state. 
 
 ### Summary
 
